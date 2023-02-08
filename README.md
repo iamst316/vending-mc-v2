@@ -8,7 +8,7 @@
 - To advance my understanding of Advance Js and DOM
 - To make a responsive web page
 
-##Notes
+## Notes
 
 *Here I will post my to-do ideas with the application*
 
