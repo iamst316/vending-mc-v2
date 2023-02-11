@@ -38,6 +38,8 @@ function Add(){
     console.log();
 }
 
+let menuTable = document.getElementById('table');
+
 
 for(let i of menu){
     // menuList.innerHTML = `<li>${i.item}</li>`;
